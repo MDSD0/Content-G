@@ -1,6 +1,6 @@
 import os
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCCGGL1-Pv9YXvJrb2fuolNvgHSDryW3eU"
+os.environ["GOOGLE_API_KEY"] = "GEMINI API KEY"
 
 
 # This is the message with which the system opens the conversation.
